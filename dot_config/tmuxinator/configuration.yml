@@ -1,0 +1,10 @@
+# /Users/ahmedrezk/.config/tmuxinator/configuration.yml
+
+name: configuration 
+root: /Users/ahmedrezk/.config
+
+windows:
+  - editor:
+      - nvim
+      - guard
+
