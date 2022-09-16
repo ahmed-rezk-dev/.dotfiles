@@ -1,0 +1,23 @@
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+[?1034hbash-3.2$ set +m +b +o history
+bash-3.2$ 
+bash-3.2$ unset HISTFILE
+bash-3.2$ 
+bash-3.2$ export PATH='/usr/bin:/bin:/usr/sbin:/sbin:/opt/homebrew/bin:/usr/loca l/bin'
+bash-3.2$ 
+bash-3.2$ export HOME=/Users/ahmedrezk
+bash-3.2$ 
+bash-3.2$ 
+bash-3.2$ { ( cd /Users/ahmedrezk/Work/principlestudios/simplified-quoting-exper ience && until [[ -f .fig/autocomplete/build/_shortcuts.js ]] || [[ $PWD = $HOME  ]] || [[ $PWD = "/" ]]; do cd ..; done; echo $PWD ) 1> /var/folders/lg/n3012vt1 4wq89zhlrggz94rw0000gn/T/22.stdout 2> /var/folders/lg/n3012vt14wq89zhlrggz94rw00 00gn/T/22.stderr; '/Applications/Fig.app/Contents/MacOS/fig-darwin-universal' _  callback 22 /var/folders/lg/n3012vt14wq89zhlrggz94rw0000gn/T/22 $? ; } &
+[1] 5238
+bash-3.2$ 
+bash-3.2$ { ( fig --version ) 1> /var/folders/lg/n3012vt14wq89zhlrggz94rw0000gn/ T/31.stdout 2> /var/folders/lg/n3012vt14wq89zhlrggz94rw0000gn/T/31.stderr; '/App lications/Fig.app/Contents/MacOS/fig-darwin-universal' _ callback 31 /var/folder s/lg/n3012vt14wq89zhlrggz94rw0000gn/T/31 $? ; } &
+[2] 5273
+bash-3.2$ 
+bash-3.2$ export HOME=/Users/ahmedrezk
+bash-3.2$ 
+bash-3.2$ 
+bash-3.2$ 
