@@ -223,10 +223,5 @@ alias ibrew='arch -x86_64 /usr/local/bin/brew'
 alias lvim="/Users/ahmedrezk/.local/bin/lvim"
 
 
-ln -sf ~/dotfiles/zshrc ~/.zshrc
-ln -sf ~/dotfiles/hammerspoon ~/.hammerspoon
-ln -sf ~/dotfiles/nvim ~/.config/nvim
-# ln -sf ~/dotfiles/nvim ~/.config/nvim
-
 # Fig post block. Keep at the bottom of this file.
 [[ -f "$HOME/.fig/shell/zshrc.post.zsh" ]] && builtin source "$HOME/.fig/shell/zshrc.post.zsh"
