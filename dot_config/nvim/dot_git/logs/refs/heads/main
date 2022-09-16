@@ -1,0 +1,62 @@
+0000000000000000000000000000000000000000 c732ab42cdb6c59eb131d89acbb0c541522346f6 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658332956 -0600	commit (initial): Initial dev
+c732ab42cdb6c59eb131d89acbb0c541522346f6 c732ab42cdb6c59eb131d89acbb0c541522346f6 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658333023 -0600	Branch: renamed refs/heads/main to refs/heads/main
+c732ab42cdb6c59eb131d89acbb0c541522346f6 86738a87c5a0952192067162847d47030173d8cd Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658333843 -0600	commit: Working env
+86738a87c5a0952192067162847d47030173d8cd e7b31e20c17553a76bbd4a7a8405e72d891cef56 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658334476 -0600	commit: Packer instaillation
+e7b31e20c17553a76bbd4a7a8405e72d891cef56 8eeddc50396dfc90d7edf6622ad2e257541c1189 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658334859 -0600	commit: User options
+8eeddc50396dfc90d7edf6622ad2e257541c1189 104771a657b0aabf4b1fc1913e0a2300823ba4fc Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658336369 -0600	commit: LSP Instiallation, LSP settings, LSP NULL , Lua server
+104771a657b0aabf4b1fc1913e0a2300823ba4fc f27f61d33bc572aa57361b7955a8136d92d213a1 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658339345 -0600	commit: Treesitter instaillation, configuration
+f27f61d33bc572aa57361b7955a8136d92d213a1 30f86ead03b9821329402a5a18b9d9f45d64cc60 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658340733 -0600	commit: CMP instiallation, autocomplate, snipets
+30f86ead03b9821329402a5a18b9d9f45d64cc60 edc7863a8d8ac0dab135a3d0f2f84589c2b57dc0 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658341099 -0600	commit: File exploer
+edc7863a8d8ac0dab135a3d0f2f84589c2b57dc0 30f86ead03b9821329402a5a18b9d9f45d64cc60 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658341156 -0600	reset: moving to HEAD~1
+30f86ead03b9821329402a5a18b9d9f45d64cc60 6108f6bc85eaee41aab7cdd2e8fc03b3a5885b8f Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658341175 -0600	commit: File exploer
+6108f6bc85eaee41aab7cdd2e8fc03b3a5885b8f 7de3a7e6d8d0827aebc13065a01ec600a8d07268 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658341647 -0600	commit: Whichkey installation, shortcuts manager
+7de3a7e6d8d0827aebc13065a01ec600a8d07268 e0014bf63c6f7b44e7db507b88dc85e95eec6f94 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658343226 -0600	commit: Disbale lua formte, enable later
+e0014bf63c6f7b44e7db507b88dc85e95eec6f94 8614e0bd7c439f7b6882881fbfb94e5159a25a67 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658344043 -0600	commit: Tabs/Buffers mananger instaillation
+8614e0bd7c439f7b6882881fbfb94e5159a25a67 40ec3f8a49dacba3d38f26d2a5bc79608a3343ec Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658344775 -0600	commit: keymaps, mappings
+40ec3f8a49dacba3d38f26d2a5bc79608a3343ec 7160f994890ff3a67802e7dddd91c84a19c57a7a Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658345066 -0600	commit: Name themse secction
+7160f994890ff3a67802e7dddd91c84a19c57a7a d0309e83c512221341a8898a8750bd1d05cf8e67 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658345316 -0600	commit: Stauts button bar instaillation,confugration
+d0309e83c512221341a8898a8750bd1d05cf8e67 713c70680ced4da5c093a2b63a724b4114ef6251 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658352354 -0600	commit: Telescope installation,configuration
+713c70680ced4da5c093a2b63a724b4114ef6251 32a23ade7bf4429bda86cdb08ed344f0afd41c8b Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658365299 -0600	commit: Dashboard window configuration
+32a23ade7bf4429bda86cdb08ed344f0afd41c8b 9080ead46d1a20e906aeb03f4b745b6fa8d01fde Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658365464 -0600	commit: reloads neovim whenever you save the plugins/index.lua file
+9080ead46d1a20e906aeb03f4b745b6fa8d01fde e1db23aec5bf54232d8a194854cc030c15f74944 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658365843 -0600	commit: sessions manager configuration
+e1db23aec5bf54232d8a194854cc030c15f74944 d92b0b0de6d22e8ce685097afc984fa244d24349 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658366364 -0600	commit: Packer whichkey configuration
+d92b0b0de6d22e8ce685097afc984fa244d24349 d3550c3aadd4a36fc030ae6d8ab82993df14c5fa Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658366517 -0600	commit: Seacrh & Replace whichkey configuration
+d3550c3aadd4a36fc030ae6d8ab82993df14c5fa c8dbe9cca6bd533982df6fa32ca3dae21b73d88f Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658366806 -0600	commit: sessions whichkey configuration
+c8dbe9cca6bd533982df6fa32ca3dae21b73d88f 18aaf85b0d54704982396c9c6c4a2b7d9de8fd6b Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658366966 -0600	commit: whichkey - telescope find files
+18aaf85b0d54704982396c9c6c4a2b7d9de8fd6b c1a5cb386a4ac0e157d8bae5e861701aedd3f89a Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658367231 -0600	commit: whichkey - LSP configuration
+c1a5cb386a4ac0e157d8bae5e861701aedd3f89a 483f76627aa425d9418cd4c3bc23819074b0f699 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658367407 -0600	commit: whichkey - LSP diagnostic configuration
+483f76627aa425d9418cd4c3bc23819074b0f699 3cf20a7ef174b09a8a03103572092ab5a011d6c1 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658367495 -0600	commit: whichkey - treesitter configuration
+3cf20a7ef174b09a8a03103572092ab5a011d6c1 ace1323d4db40acc8cce89d2bd9b7685ec3dedd8 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658367976 -0600	commit: gitsigns, diffview, neogit configuration
+ace1323d4db40acc8cce89d2bd9b7685ec3dedd8 8627a7549b1bb085d3312c0d6a77150025318c9b Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658368134 -0600	commit: whichkey - git configuration
+8627a7549b1bb085d3312c0d6a77150025318c9b 1c67c3066cc7afa5e897c623940fd0cc78d33b52 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658368509 -0600	commit: Plugin - 'project' Automagically cd to project directory using nvim lsp
+1c67c3066cc7afa5e897c623940fd0cc78d33b52 184a069f6d6e5ce997ea1dd39276a397279c8d6f Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658368850 -0600	commit (amend): Update buffer close shortcut
+184a069f6d6e5ce997ea1dd39276a397279c8d6f 520036e82054304e8d789008dc263c7554777dba Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658369966 -0600	commit (amend): Plugin - toggleterm.nvim
+520036e82054304e8d789008dc263c7554777dba d99d49fc9db294ebe0cdf5dbfc18d5b93c945680 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658370040 -0600	commit (merge): Merge
+d99d49fc9db294ebe0cdf5dbfc18d5b93c945680 d6c7fac5328a78030321f20d223b82ae23fa134c Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658370269 -0600	commit: Neovim implementation of the famous Emacs Hydra package
+d6c7fac5328a78030321f20d223b82ae23fa134c ff6d627539964dacd70c4241fa79a7eff9b9813d Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658370305 -0600	commit: Remove toggleterm from utils
+ff6d627539964dacd70c4241fa79a7eff9b9813d 19564f3830a14881f4baebedf6e48f3bb1507a5c Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658370598 -0600	commit: Plugin - nvim-ts-rainbow instiallation
+19564f3830a14881f4baebedf6e48f3bb1507a5c 382fe43a8be04211dbeba19fc031ff2e8c41fdc0 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658370692 -0600	commit: Plugin - 'impatient.nvim' -- Speed up loading Lua modules in Neovim to improve startup time
+382fe43a8be04211dbeba19fc031ff2e8c41fdc0 18263a7d124602691852475d1a9c060ce2a3289d Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658370964 -0600	commit: Plugin - indentline instaillation, configuration
+18263a7d124602691852475d1a9c060ce2a3289d 416a36f557a2d9f6a7894e124c0885820969120a Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658371430 -0600	commit: Plugin - to help comments code blocks
+416a36f557a2d9f6a7894e124c0885820969120a 969a04b1ceb6451acf0ea3858f08d880b5aa7e05 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658371493 -0600	commit: To fix ts-rainbow later
+969a04b1ceb6451acf0ea3858f08d880b5aa7e05 39241a3299d60e535696ba62fd891039a734a96c Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658371625 -0600	commit: Plugin - "popup.nvim" An implementation of the Popup API from vim in Neovim
+39241a3299d60e535696ba62fd891039a734a96c 873708e2c672baf83671ed1ce932c19186f9384e Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658371894 -0600	commit: Plugin - 'autopairs' To supports multiple characters auto close & open tags
+873708e2c672baf83671ed1ce932c19186f9384e 6ab570c3d7fe0231cc74673209867962132c1da5 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658416047 -0600	commit: Plugin - nvim-web-devicons This plugin provides the same icons as well as colors for each icon
+6ab570c3d7fe0231cc74673209867962132c1da5 0102c303f6dd6dda4c8411114bbef2e3c03e465e Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658416559 -0600	commit: Plugin - colorizer.lua for color highlighter
+0102c303f6dd6dda4c8411114bbef2e3c03e465e a0b371c172941257f82a4c941a524b19eed3e857 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658417111 -0600	commit: nvim-gps is status line component that shows context of the current cursor position in file
+a0b371c172941257f82a4c941a524b19eed3e857 eb73f326042281075d9db2458d9d5f1749213bd0 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658417400 -0600	commit: autocommands, winbar
+eb73f326042281075d9db2458d9d5f1749213bd0 a739ff2b576e45f5f2b5be7a42d112dcc042cf7e Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658417688 -0600	commit: Lspsaga A light-weight lsp plugin based on neovim's built-in lsp with a highly performant UI.
+a739ff2b576e45f5f2b5be7a42d112dcc042cf7e c7fd24e5adf857c87317bec20b694408f5037941 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658439928 -0600	commit: Plugin - A better user experience for interacting with and manipulating Vim marks.
+c7fd24e5adf857c87317bec20b694408f5037941 aef4dcb40897d01272599e25fb115d66e882d709 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658463009 -0600	commit: Plugin - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document
+aef4dcb40897d01272599e25fb115d66e882d709 46bcb446da6b87bc929461cd3d8b544650a3a98a Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658848904 -0600	commit: Debugging instaillation,configuration
+46bcb446da6b87bc929461cd3d8b544650a3a98a 11d1b22becd6f2efd40181ebc6504f87588028e8 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658848919 -0600	commit: Whickey - Debugging
+11d1b22becd6f2efd40181ebc6504f87588028e8 3006fd0f85d673a6277a0949785e407575e33a16 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1658849497 -0600	commit: Note taking installation
+3006fd0f85d673a6277a0949785e407575e33a16 e05c8906d26f13671c0b94155266a061d9302724 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1659993283 -0600	commit: trouble installation
+e05c8906d26f13671c0b94155266a061d9302724 490fecf8ce5a8f2eed32f540488ea8cd636525b2 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1660240784 -0600	commit: Todo Comments highlight installation
+490fecf8ce5a8f2eed32f540488ea8cd636525b2 69563575430447f688a5b196e0172e74ed28ff22 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1660240816 -0600	commit: Close buffer with closeing window
+69563575430447f688a5b196e0172e74ed28ff22 24ec7161d228cbb4e335e068e1c3455117497f1e Ahmed Rezk <ahmed.rezk@principlestudios.com> 1661790250 -0600	commit: Githib _octo
+24ec7161d228cbb4e335e068e1c3455117497f1e f567c5f1128fe9d16f34092787a1e9149cc7d16b Ahmed Rezk <ahmed.rezk@principlestudios.com> 1661790333 -0600	commit: Notes
+f567c5f1128fe9d16f34092787a1e9149cc7d16b 150b38806235356e8d7574d2d5967b70907e1c04 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1661790517 -0600	commit: deprecations update
+150b38806235356e8d7574d2d5967b70907e1c04 ae77b10d4f51ef9524326c6a40b9f978d28d4963 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1661959169 -0600	commit: fixing octo problem
+ae77b10d4f51ef9524326c6a40b9f978d28d4963 5e15849cd19b3537885e2481e0513529e5f7997e Ahmed Rezk <ahmed.rezk@principlestudios.com> 1661961122 -0600	commit: fxi bufferline updates
+5e15849cd19b3537885e2481e0513529e5f7997e ac26b64a7ac5aa96f02304b13576c8ef86c8cfa3 Ahmed Rezk <ahmed.rezk@principlestudios.com> 1661976656 -0600	commit: fix highlights spling
