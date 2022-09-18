@@ -119,7 +119,7 @@ source $ZSH/oh-my-zsh.sh
 # if [[ -n $SSH_CONNECTION ]]; then
 #   export EDITOR='vim'
 # else
-#   export EDITOR='mvim'
+   export EDITOR='mvim'
 # fi
 
 # Compilation flags
@@ -221,6 +221,8 @@ export NVM_DIR="$HOME/.nvm"
 alias ibrew='arch -x86_64 /usr/local/bin/brew'
 #alias dotnet='dotnetx64'
 alias lvim="/Users/ahmedrezk/.local/bin/lvim"
+alias cz='chezmoi'
+alias ls='ls -GpF'
 
 
 # Fig post block. Keep at the bottom of this file.
